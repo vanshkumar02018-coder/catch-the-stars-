@@ -1,0 +1,27 @@
+{
+    "name": "Catch the stars ",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "game-building-session-tutorials": "github:Code-Ninjas-Home-Office/game-building-session-tutorials"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "images.g.jres",
+        "images.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "2.0.62",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
